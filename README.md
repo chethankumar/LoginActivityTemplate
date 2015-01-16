@@ -3,9 +3,9 @@
 
 ####This is a Login Activity teamplate for Android applications that use Parse as backend.
 
-It is intended to reduce the time taken to write a Login activity for Android apps.
+>It is intended to reduce the time taken to write a Login activity for Android apps.
 
-The template accounts for basic Login activity operations.
+>The template accounts for basic Login activity operations.
 
 ***
 ####Operations supported.
